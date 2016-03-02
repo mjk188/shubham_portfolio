@@ -1,0 +1,16 @@
+3 steps:-
+
+
+####  1. Create the site on local machine #####
+
+1. Start with open source bootstrap theme of ur choice 
+2. Modify the index.html content as per your choice
+3. Create a form from WUFOO.com which is nothing but a form buiilder and who takes care of databases and provides email notifications too.
+4. In the portfolio you can also create a twitter follow button by calling out twitter follow button generator and embedding the code in your html doc as its is.
+
+
+#### 2. Create Google analytics account to keep track of your website hits #####
+
+#### 3. Deploy ur site on github by GithubWebsite Launch #####
+
+### 4. Atom editor nad Sumome addon for sharing ur website ###
